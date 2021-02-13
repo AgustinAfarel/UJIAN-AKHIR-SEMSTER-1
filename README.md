@@ -90,15 +90,13 @@ def ubah_data(xsiapa):
             print("!!! === ERROR! Anda Memasukkan Pilihan yang Salah === !!!")
     else:
         print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!")
-        
-```
+        ```
 
-       Isi Dari Nilai Inpt Py 
+       #Isi Dari Nilai Inpt Py 
 
-       ``` pythom
-       from prettytable import PrettyTable
+       ``` python
+       from prettytable import PrettyTable 
 
-Fungsi : tambah_data, ubah_data, hapus_data, cari_data
 
 x = PrettyTable()
 tampunglist = {}
@@ -183,5 +181,6 @@ def ubah_data(xsiapa):
         else:
             print("!!! === ERROR! Anda Memasukkan Pilihan yang Salah === !!!")
     else:
-        print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!")
-```
+        print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!") 
+        ```
+    
