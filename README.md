@@ -98,7 +98,7 @@ def ubah_data(xsiapa):
        ``` pythom
        from prettytable import PrettyTable
 
-# Fungsi : tambah_data, ubah_data, hapus_data, cari_data
+Fungsi : tambah_data, ubah_data, hapus_data, cari_data
 
 x = PrettyTable()
 tampunglist = {}
