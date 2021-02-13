@@ -94,7 +94,9 @@ def ubah_data(xsiapa):
 
        #Isi Dari Nilai Input Py
        <br>
-     ``` python
+
+       ``` python
+       
        from prettytable import PrettyTable 
 
 
@@ -182,5 +184,5 @@ def ubah_data(xsiapa):
             print("!!! === ERROR! Anda Memasukkan Pilihan yang Salah === !!!")
     else:
         print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!") 
-```
+    ```
     
