@@ -94,9 +94,7 @@ def ubah_data(xsiapa):
 
        #Isi Dari Nilai Input Py
        <br>
-     
-
-       ``` python
+     ``` python
        from prettytable import PrettyTable 
 
 
