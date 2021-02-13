@@ -1,5 +1,6 @@
 # UJIAN-AKHIR-SEMSTER-1
 Dibuat untuk memenuhi Ujian Akhir Semester
+
 ``` python 
  from prettytable import PrettyTable
 
@@ -89,4 +90,7 @@ def ubah_data(xsiapa):
             print("!!! === ERROR! Anda Memasukkan Pilihan yang Salah === !!!")
     else:
         print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!")
-        ```
+        
+```
+
+        <br> Isi Dari Nilai Inpt Py 
