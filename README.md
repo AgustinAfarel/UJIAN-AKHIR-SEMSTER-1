@@ -92,7 +92,9 @@ def ubah_data(xsiapa):
         print("!!! === ERROR! DATA TIDAK TERSEDIA === !!!")
 ```
 
-       #Isi Dari Nilai Inpt Py 
+       #Isi Dari Nilai Input Py
+       <br>
+     
 
        ``` python
        from prettytable import PrettyTable 
